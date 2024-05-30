@@ -100,4 +100,7 @@
   .text-container {
     text-align: justify;
   }
+  .details-container {
+    flex: 1 1 100%;
+  }
 }
